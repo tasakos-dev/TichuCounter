@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">">
+    <item
+        android:id="@+id/winpts"
+        android:title="@string/set_winning_points" />
+    <item
+    android:id="@+id/names"
+    android:title="@string/set_team_names" >
+        <menu>
+            <item
+                android:id="@+id/name1"
+                android:title="@string/team_1"/>
+
+            <item
+                android:id="@+id/name2"
+                android:title="@string/team_2"/>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/newgame"
+        android:title="@string/game"/>
+</menu>

@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Tichu counter</string>
+    <string name="grand_tichu">Grand Tichu</string>
+    <string name="add">ADD</string>
+    <string name="_1_2">1-2</string>
+    <string name="team_2">Team 2</string>
+    <string name="tichu">Tichu</string>
+    <string name="points">Points</string>
+    <string name="team_1">Team 1</string>
+    <string name="set_team_names">set team names</string>
+    <string name="set_winning_points">set winning points</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="name">Name</string>
+    <string name="game">New Game</string>
+</resources>
