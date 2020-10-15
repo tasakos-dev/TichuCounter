@@ -204,7 +204,8 @@ public class MainActivity extends AppCompatActivity implements DialogActivity.Ex
                     pnt2+=Integer.parseInt(tv2.getText().toString());
                 }
 
-                tv1.setText(String.valueOf(pnt1));tv2.setText(String.valueOf(pnt2));
+                tv1.setText(String.valueOf(pnt1));
+                tv2.setText(String.valueOf(pnt2));
 
 
                 if (!tv1.getText().equals("")){
