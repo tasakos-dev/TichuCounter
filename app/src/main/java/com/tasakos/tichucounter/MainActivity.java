@@ -220,10 +220,20 @@ public class MainActivity extends AppCompatActivity implements DialogActivity.Ex
                     }
                 }
 
-                pnt1=0;pnt2=0;
-                s1.setChecked(false);s2.setChecked(false);s3.setChecked(false);s4.setChecked(false);s6.setChecked(false);s7.setChecked(false);
-                c1.setChecked(false);c2.setChecked(false);c3.setChecked(false);c4.setChecked(false);
-                points1.setText(""); points2.setText("");
+                pnt1=0;
+                pnt2=0;
+                s1.setChecked(false);
+                s2.setChecked(false);
+                s3.setChecked(false);
+                s4.setChecked(false);
+                s6.setChecked(false);
+                s7.setChecked(false);
+                c1.setChecked(false);
+                c2.setChecked(false);
+                c3.setChecked(false);
+                c4.setChecked(false);
+                points1.setText("");
+                points2.setText("");
 
                 //System.out.println();
             }
