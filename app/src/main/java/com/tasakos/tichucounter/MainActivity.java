@@ -17,6 +17,7 @@ import android.widget.Toast;
 
 
 
+
 public class MainActivity extends AppCompatActivity implements DialogActivity.ExampleDialogListener {
     private int pnt1=0;
     private int pnt2=0;
